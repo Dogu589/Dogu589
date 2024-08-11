@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doğukan</h1>
 <h3 align="center">A pentester and exploit developer in Turkey</h3>
 
-<h3 align="left">Connect with me:🔍Telegram @dogu589</h3>
+<h3 align="left">🔍Connect with me:Telegram @dogu589</h3>
 <p align="left">
 </p>
 <div align="left">

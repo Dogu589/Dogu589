@@ -1,6 +1,37 @@
 <h1 align="center">Hi 👋, I'm Doğukan</h1>
 <h3 align="center">A pentester and exploit developer in Turkey</h3>
 
+<div align="justify">
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        I'm Doğukan
+      <br>
+      I believe that hackers can change and shape the world
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=97a4e2&center=true&width=410&height=45&lines=Writing+code+'probably'.">
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
+<br>
+<p align="center">
+  <!--
+  <a href="https://gist.github.com/x3ric">
+    <img src="https://img.shields.io/badge/Gist-View%20My%20Gists-000000?style=flat-square&logo=github&labelColor=97a4e2" alt="View My Gists">
+  </a>
+  -->
+  <br>
+  <a href="https://medium.com/@dogu589">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" width="50" height="50">
+  </a>
+   <a href="https://tryhackme.com/p/Dogu589">
+    <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/tryhackme_logo_icon_249349.png" alt="TryHackMe" width="50" height="50">
+  </a>
+</p>
+          
 <h3 align="left">🔍Connect with me:Telegram @dogu589</h3>
 <p align="left">
 </p>

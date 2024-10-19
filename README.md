@@ -12,7 +12,7 @@
       I believe that hackers can change and shape the world
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=97a4e2&center=true&width=410&height=45&lines=Writing+code+'probably'.">
+        <image src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00F78E&background=FFFFFF00&vCenter=true&random=true&width=435&lines=On+his+way+to+becoming;A+great+Hacker'.">
     </samp>
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>

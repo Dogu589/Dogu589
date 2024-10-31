@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doğukan</h1>
- <h3 align="center"><img src="https://media.tenor.com/qPfptozn4j8AAAAM/yofukashi-no-uta-call-of-the-night.gif" width="150"/></h3></h3>
+
 <h3 align="center"><img src="https://media.giphy.com/media/mFr2bCGZkwclfVDKv6/giphy.gif" width="150"/></h3></h3>
 <h3 align="center">A pentester and exploit developer in Turkey</h3>
 
@@ -17,6 +17,7 @@
         <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0048F7&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=The+heart+of+Cyber+Intelligence;Is+observing+people.">
     </samp>
   </p>
+          <h3 align="center"><img src="https://media.tenor.com/qPfptozn4j8AAAAM/yofukashi-no-uta-call-of-the-night.gif" width="150"/></h3></h3>
 <p align="right"><strong><samp>」</samp></strong></p>
 <br>
 <p align="center">

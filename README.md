@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Doğukan</h1>
+ <h3 align="center"><img src="https://media.tenor.com/qPfptozn4j8AAAAM/yofukashi-no-uta-call-of-the-night.gif" width="150"/></h3></h3>
+<h3 align="center"><img src="https://media.giphy.com/media/mFr2bCGZkwclfVDKv6/giphy.gif" width="150"/></h3></h3>
 <h3 align="center">A pentester and exploit developer in Turkey</h3>
 
 <div align="justify">

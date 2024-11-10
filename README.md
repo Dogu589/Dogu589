@@ -27,7 +27,6 @@
     <img src="https://img.shields.io/badge/Gist-View%20My%20Gists-000000?style=flat-square&logo=github&labelColor=97a4e2" alt="View My Gists">
   </a>
   -->
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Dogu589.png" alt="Your Image Badge" />
   <br>
 
   <a href="https://medium.com/@dogu589">

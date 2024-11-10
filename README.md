@@ -27,7 +27,9 @@
     <img src="https://img.shields.io/badge/Gist-View%20My%20Gists-000000?style=flat-square&logo=github&labelColor=97a4e2" alt="View My Gists">
   </a>
   -->
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Dogu589.png" alt="Your Image Badge" />
   <br>
+
   <a href="https://medium.com/@dogu589">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" width="50" height="50">
   </a>
@@ -35,7 +37,7 @@
     <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/tryhackme_logo_icon_249349.png" alt="TryHackMe" width="50" height="50">
   </a>
 </p>
-          
+        
 <h3 align="left">🔍Connect with me:Telegram @dogu589</h3>
 <p align="left">
 </p>

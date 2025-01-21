@@ -64,5 +64,5 @@
 
 
 <div align="center">
-  <img src="https://i.ibb.co/SKhsNnt/Ekran-g-r-nt-s-2024-11-17-191733.pg" alt="Elon Musk Quote" width="600"/>
+  <img src="https://i.ibb.co/SKhsNnt/Ekran-g-r-nt-s-2024-11-17-191733.png" alt="Elon Musk Quote" width="600"/>
 </div>

@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doğukan</h1>
+<div align="center">
+<img src="https://moe-counter.glitch.me/get/@:dogu589?theme=rule34">  
+</div>
 
 <h3 align="center"><img src="https://media.giphy.com/media/mFr2bCGZkwclfVDKv6/giphy.gif" width="150"/></h3></h3>
 <h3 align="center"><img src="https://avatarfiles.alphacoders.com/357/357425.png" width="150"/></h3></h3>

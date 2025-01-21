@@ -64,5 +64,8 @@
 
 
 <div align="center">
-  <img src="https://i.ibb.co/ckYdBCv/animegithub.jpg" alt="Elon Musk Quote" width="600"/>
+  ![animegithub](https://github.com/user-attachments/assets/837b14cb-e8cf-4eaa-b048-1fc604827236)
+
+  <img src="![animegithub](https://github.com/user-attachments/assets/c38b40d3-4d06-4550-a129-3569f9d5f7e7)
+" alt="Elon Musk Quote" width="600"/>
 </div>

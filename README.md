@@ -36,7 +36,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" width="50" height="50">
   </a>
    <a href="https://tryhackme.com/p/Dogu589">
-    <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/tryhackme_logo_icon_249349.png" alt="TryHackMe" width="50" height="50">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8TVRfVzmWLMn27OB8IR7AH7FfE_QXb0y-g&s" alt="TryHackMe" width="50" height="50">
   </a>
 </p>
         

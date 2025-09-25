@@ -5,7 +5,7 @@
 
 <h3 align="center"><img src="https://media.giphy.com/media/mFr2bCGZkwclfVDKv6/giphy.gif" width="150"/></h3></h3>
 <h3 align="center"><img src="https://avatarfiles.alphacoders.com/357/357425.png" width="150"/></h3></h3>
-<h3 align="center">A pentester and exploit developer in Turkey</h3>
+<h3 align="center">A pentester and cyber threat intelligence analyst in Turkey</h3>
 
 <div align="justify">
 <!-- Profile -->
